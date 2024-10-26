@@ -1,22 +1,22 @@
 📺央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV5
+CCTV5+
+CCTV6
+CCTV7
+CCTV8
+CCTV9
+CCTV10
+CCTV11
+CCTV12
+CCTV13
+CCTV14
+CCTV15
+CCTV16
+CCTV17
 CETV1
 CETV2
 CETV4
@@ -74,6 +74,7 @@ CETV5
 
 🏠河南,#genre#
 河南都市频道
+河南都市频道高清
 河南民生频道
 河南法治频道
 河南电视剧频道高清
@@ -179,7 +180,7 @@ CN卡通
 河北少儿科教
 
 🎵音乐频道,#genre#
-CCTV-15
+CCTV15
 风云音乐
 音乐现场
 音乐之声
